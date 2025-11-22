@@ -1,4 +1,4 @@
-<!--data base connection-->
+<!----data base connection-->
 <?php include "includes/dbname.php"?>
 
     <!--header-->
